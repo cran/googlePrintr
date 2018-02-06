@@ -1,0 +1,11 @@
+b3c5c0dca7975190884cdc4f301bc8b1 *DESCRIPTION
+1151c451ba317b84042e4d5fb2a35d06 *LICENSE
+19a91868e42d545398edaee9b1dcc048 *NAMESPACE
+15d92fec29309380e526c256a9412e20 *R/gcp.R
+f81ef09ad7223f5505f4cf5f6dc81366 *README.md
+1062d9d39bd32be8931665fd5de45ea8 *man/gcp_deletejob.Rd
+9868bb2be0df161eedd84e1b39c1da9f *man/gcp_jobs.Rd
+ba773dad7ebcd6c2ee57a7feb73ae10e *man/gcp_printer.Rd
+b797d088af8eb69001fd29f31931d2eb *man/gcp_processinvite.Rd
+d3edb4c6e3ab7a43569d0251c8033d2c *man/gcp_search.Rd
+b1490b563abe52a02c76d02bf0cad888 *man/gcp_submit.Rd
